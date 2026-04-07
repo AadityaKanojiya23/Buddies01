@@ -93,8 +93,6 @@ export default function Footer() {
           </p>
         </div>
       </div>
-
-      {/* Bottom Bar */}
       <div className="text-center text-sm py-4 text-[#374151] bg-[#FFF7ED]">
         © 2025 Buddies Universe. All rights reserved.
       </div>
